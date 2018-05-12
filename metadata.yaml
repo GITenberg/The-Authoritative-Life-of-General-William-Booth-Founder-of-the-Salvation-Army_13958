@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5302'
     url: http://www.gutenberg.org/2009/agents/5302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13958#The-Authoritative-Life-of-General-William-Booth-Founder-of-the-Salvation-Army
 gutenberg_issued: '2004-11-04'
 gutenberg_type: Text
 identifiers:
